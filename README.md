@@ -1,6 +1,6 @@
 ![I am Web Developer](https://pbs.twimg.com/profile_banners/399511350/1543854158/600x200)
 
-### Hi 👋, I'm MD. FAHIDUR RAHIM
+### Hi, I'm MD. FAHIDUR RAHIM
 #### I am Web Developer
 
 I would like to work with a company where I can enhance my knowledge with my theoretical 
