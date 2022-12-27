@@ -9,7 +9,7 @@ and practical learning to give my best to the organization.
 Skills: Laravel | React | MySQL | Rest API | HTML | CSS | Git
 
 - 🌱 I’m currently learning React JS 
-- 👯 I’m looking to collaborate on a IT Company 
+- 👯 I’m looking to collaborate on a Software IT Company 
 - 📫 How to reach me: farhan.fahidurrahim@gmail.com 
 
 
