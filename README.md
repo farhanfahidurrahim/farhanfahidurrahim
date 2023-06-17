@@ -6,7 +6,7 @@
 I would like to work with a company where I can enhance my knowledge with my theoretical 
 and practical learning to give my best to the organization.
 
-Skills: Laravel | React | MySQL | Rest API | HTML | CSS | Git
+Skills: PHP OOP | Laravel | Vue.js | Rest API |MySQL | HTML | CSS | Git
 
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on a Software IT Company 
