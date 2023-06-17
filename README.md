@@ -8,9 +8,9 @@ and practical learning to give my best to the organization.
 
 Skills: PHP OOP | Laravel | Vue.js | Rest API |MySQL | HTML | CSS | Git
 
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning Vue.Js with Laravel-Inertia.js
 - 👯 I’m looking to collaborate on a Software IT Company 
-- 📫 How to reach me: farhan.fahidurrahim@gmail.com 
+- 📫 How to reach me: #email- farhan.fahidurrahim@gmail.com #phone- 01675717825 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhanfahidurrahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-fahidur-rahim//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/farhanfahidur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_farhan_fahidurrahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamfrn)  
