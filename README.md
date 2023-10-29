@@ -8,7 +8,7 @@ and practical learning to give my best to the organization.
 
 Skills: PHP OOP | Laravel | MySQL | Jquery/Ajax | Inertia.js | Rest API | HTML | CSS | Git
 
-- 🌱 I’m currently learning Vue.Js with Laravel-Inertia.js
+- 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on a Software IT Company 
 - 📫 How to reach me: #email- farhan.fahidurrahim@gmail.com #phone- 01675717825 
 
