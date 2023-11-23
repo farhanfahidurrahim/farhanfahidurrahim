@@ -17,10 +17,6 @@ Skills: PHP OOP | Laravel | MySQL | Jquery/Ajax | Inertia.js | Rest API | HTML |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanfahidurrahim&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanfahidurrahim)  
-
-![Profile views](https://gpvc.arturio.dev/farhanfahidurrahim)  
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanfahidurrahim&show_icons=true&locale=en&layout=compact" alt="farhanfahidurrahim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanfahidurrahim&show_icons=true&locale=en" alt="farhanfahidurrahim" /></p>
