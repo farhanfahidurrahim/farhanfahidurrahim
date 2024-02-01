@@ -6,7 +6,7 @@
 I would like to work with a company where I can enhance my knowledge with my theoretical 
 and practical learning to give my best to the organization.
 
-Skills: PHP OOP | Laravel | MySQL | Jquery/Ajax | Inertia.js | Rest API | HTML | CSS | Git
+Skills: PHP OOP | Laravel | MySQL | JavaScript | Jquery/Ajax | Inertia.js | RestAPI | Git
 
 - 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on a Software IT Company 
