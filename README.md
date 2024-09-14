@@ -10,7 +10,8 @@ Skills: PHP OOP | Laravel | MySQL | JavaScript | Jquery/Ajax | Inertia.js | Rest
 
 - 🌱 I’m currently learning Vue.Js
 - 👯 I’m looking to collaborate on a Software IT Company 
-- 📫 How to reach me: #email- farhan.fahidurrahim@gmail.com #phone- 01675717825 
+- 📫 How to reach me: #email- farhan.fahidurrahim@gmail.com #phone- 01675717825
+- 📫 My Portfolio: https://md-fahidurrahim.netlify.app
 
 <p align="left">
 <a href="https://github.com/farhanfahidurrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fahdiur" height="30" width="40" /></a>
